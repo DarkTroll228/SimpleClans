@@ -1,0 +1,4 @@
+name: ClanPlugin
+version: @version@
+main: com.darktroll.plugin.Main
+api-version: 1.16
